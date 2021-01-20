@@ -1,0 +1,55 @@
+body {
+    background-color: #E0E0E0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p::selection {
+    background-color: #E7162E;
+    color: white;
+}
+
+section {
+    background-color: rgba(191,191,191,0.6);
+    display: flex;
+    margin: 0px 50px;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-content: center;
+    border-radius: 30px;
+}
+
+article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.image_name {
+    display: block;
+    font-size: 28px;
+    font-weight: bold;
+    align-items: center;
+}
+
+.image_name img {
+    position: relative;
+    top: 20px;
+    width: 90%;
+    max-width: 200px;
+}
+
+.bio {
+    max-width: 90vh;
+    margin: 0px auto;
+    position: relative;
+    bottom: 30px;
+}
+
+.media img {
+    width: 80%;
+    max-width: 86px;
+    position: relative;
+    bottom: 20px;
+    padding: 0px 1%;
+}

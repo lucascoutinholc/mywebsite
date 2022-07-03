@@ -1,3 +1,3 @@
-# Web Site Lucas Coutinho
+# Website Lucas Coutinho
 
-Visit the web site: https://lucascoutinholc.github.io/mywebsite/
+Visit the website: https://lucascoutinholc.github.io/mywebsite/

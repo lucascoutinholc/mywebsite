@@ -39,6 +39,8 @@ article {
     top: 20px;
     width: 90%;
     max-width: 200px;
+    padding: 4px;
+    border: 2px solid black;
 }
 
 .bio {
